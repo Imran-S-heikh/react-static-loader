@@ -1,5 +1,5 @@
 {
-  "name": "react-static-loader",
+  "name": "webpack-react-static-loader",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
